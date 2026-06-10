@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>TraysSparkle</title>
+        <title>Trays0.5.1</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Wed, 10 Jun 2026 19:04:34 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <title>0.5.1</title>
+            <pubDate>Thu, 11 Jun 2026 00:08:08 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Pinky-Brains/TraysReleases_BETA/releases/download/BEPHA/Trays.dmg" length="200000000" type="application/octet-stream" sparkle:edSignature="gUxQ4sB4OhoPx4ivZWj9o3p4KinnQi1SfJs/+eAVWFVtAs8OxEk2QzJ5uBNniqZCyOVOjdtZuMU6MLtV/lL6Aw=="/>
+            <enclosure url="https://github.com/Pinky-Brains/TraysReleases_BETA/releases/download/v0.5.1/Trays0.5.1.dmg" length="47242379" type="application/octet-stream" sparkle:edSignature="ITFKJi3rP35UAu/rYU2EQQy9r0Au6rPtkZy/IfsHaJBOywW0NFxssd8lUGqmtwVYr2P2BGm8WUQZ9XaKNgyTCQ=="/>
         </item>
     </channel>
 </rss>
