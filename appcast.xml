@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Pinky-Brains/TraysReleases_BETA/releases/download/v0.5.1/Trays0.5.1.dmg" length="47242379" type="application/octet-stream" sparkle:edSignature="ITFKJi3rP35UAu/rYU2EQQy9r0Au6rPtkZy/IfsHaJBOywW0NFxssd8lUGqmtwVYr2P2BGm8WUQZ9XaKNgyTCQ=="/>
+            <enclosure url="https://github.com/Pinky-Brains/TraysReleases_BETA/releases/download/v0.5.1/Trays.dmg" length="47242379" type="application/octet-stream" sparkle:edSignature="ITFKJi3rP35UAu/rYU2EQQy9r0Au6rPtkZy/IfsHaJBOywW0NFxssd8lUGqmtwVYr2P2BGm8WUQZ9XaKNgyTCQ=="/>
         </item>
     </channel>
 </rss>
